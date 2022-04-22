@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="751d0a27-7bd5-45ca-8917-daf05fd09272" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/.idea/Face_Detection_and_bluring-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/Face detection and bluring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/example/pic 1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/example/pic 2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/example/pic 3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/example/pic 4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/example/pic 5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/example/pic 6.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/face_detector/deploy.prototxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/face_detector/res10_300x300_ssd_iter_140000.caffemodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. face detection with haarcascade algorithm/face detection_harcascade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. face detection with haarcascade algorithm/haarcascade_frontalface_alt2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Face_Detection_and_bluring-project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face detection and bluring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pic 1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pic 2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pic 3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pic 4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pic 5.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pic 6.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_detector/deploy.prototxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_detector/res10_300x300_ssd_iter_140000.caffemodel" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="289dV5lNSOXB8FsG4BeWG1jCMdN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager">
+    <configuration name="face detection_harcascade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Face_Detection_and_bluring-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. face detection with haarcascade algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. face detection with haarcascade algorithm/face detection_harcascade.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.face detection_harcascade" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="751d0a27-7bd5-45ca-8917-daf05fd09272" name="Changes" comment="" />
+      <created>1650632756173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650632756173</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
