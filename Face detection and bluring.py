@@ -64,6 +64,9 @@ output = np.hstack([orig,image])
 cv2.imshow("output",output)
 cv2.waitKey(0)
 
+# usage
 
+# Face detection and bluring.py --image example/pic 1.JPG--face face_detector --method simple
+# Face detection and bluring.py --image example/pic 1.JPG--face face_detector --method pixelated
 
 
