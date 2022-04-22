@@ -2,40 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="751d0a27-7bd5-45ca-8917-daf05fd09272" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/.idea/Face_Detection_and_bluring-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/Face detection and bluring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/example/pic 1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/example/pic 2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/example/pic 3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/example/pic 4.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/example/pic 5.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/example/pic 6.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/face_detector/deploy.prototxt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 .face detection and blouring/face_detector/res10_300x300_ssd_iter_140000.caffemodel" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. face detection with haarcascade algorithm/face detection_harcascade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. face detection with haarcascade algorithm/haarcascade_frontalface_alt2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Face_Detection_and_bluring-project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Face detection and bluring.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pic 1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pic 2.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pic 3.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pic 4.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pic 5.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pic 6.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_detector/deploy.prototxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_detector/res10_300x300_ssd_iter_140000.caffemodel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. face detection with haarcascade algorithm/face detection_harcascade.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. face detection with haarcascade algorithm/face detection_harcascade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. face detection with haarcascade algorithm/image_color.png" beforeDir="false" afterPath="$PROJECT_DIR$/2. face detection with haarcascade algorithm/image_color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. face detection with haarcascade algorithm/my-image.png" beforeDir="false" afterPath="$PROJECT_DIR$/2. face detection with haarcascade algorithm/my-image.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
