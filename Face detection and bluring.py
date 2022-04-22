@@ -27,4 +27,36 @@ orig = image.copy()
 (h,w) = image.shape[:2]
 
 # construct a blod from the image
+blob = cv2.dnn.blobFromImage(image,1.0,(300,300),(104.0,177.0,123.0))
+
+#pass the blob through the network and obtain the face detection
+print("[INFO] computing face detection...")
+net.setInput(blob)
+detections = net.forward()
+
+# loop over the detections
+for i in range (0,detections.shape[2]):
+    #extract the confidence (probability) associated with the detection
+    confidence = detections[0,0,i,2]
+    #filter out weak detections by ensuring the confidence is greater than the minimum confidence
+    if confidence > args ["confidence"]:
+        #compute the (x,y) coordinates of the bounding box for the object
+        box = detections[0,0,i,3:7] * np.array([w,h,w,h])
+        (startX,startY,endX,endY) = box.astype("int")
+
+        # extract the face ROI
+        face = image[startY:endY,startX,endX]
+
+        # check to see if we are applying the "simple" face bluring method
+        if args["method"] == "simple":
+            face = anonymize_face_simple(face,factor = 3.0)
+
+            # otherwise,we must be applying the "pixelated" face anonymization method
+        else :
+            face = anonymize_face_pixelate(face,blocks = args["blocks"])
+
+        # store the bluring face in the output image
+        
+
+
 
