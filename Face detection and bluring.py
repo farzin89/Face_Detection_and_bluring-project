@@ -56,7 +56,14 @@ for i in range (0,detections.shape[2]):
             face = anonymize_face_pixelate(face,blocks = args["blocks"])
 
         # store the bluring face in the output image
-        
+
+        image[startY:endY,startX,endX] = face
+
+# display the original image and the output image with the blurred face(s) side by side
+output = np.hstack([orig,image])
+cv2.imshow("output",output)
+cv2.waitKey(0)
+
 
 
 
