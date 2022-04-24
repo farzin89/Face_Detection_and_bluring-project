@@ -28,6 +28,14 @@ while True :
         if conf >= 45 : #and conf <= 85 :
             print(id_)
             print(labels[id_])
+            #put text
+            font = cv2.FONT_HERSHEY_SIMPLEX
+            name = labels[id_]
+            color = (255,255,255)
+            stroke = 2
+            cv2.putText(frame,name,(x,y),font,1,color,stroke,cv2.LINE_AA )
+
+
         color = (255,0,0)
         stroke = 4
         end_cord_x = x+w

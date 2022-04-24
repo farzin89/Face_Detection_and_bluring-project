@@ -2,58 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="751d0a27-7bd5-45ca-8917-daf05fd09272" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/3. face recognition/faces_train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/emilia-clarke/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/emilia-clarke/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/emilia-clarke/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/emilia-clarke/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/emilia-clarke/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/emilia-clarke/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/emilia-clarke/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/farzin/pic 1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/farzin/pic 2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/farzin/pic 3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/farzin/pic 4.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/farzin/pic 5.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/farzin/pic 6.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/fun/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/fun/glasses.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/fun/mustache.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/justin/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/justin/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/justin/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/justin/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/justin/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/justin/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/justin/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/justin/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/justin/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/kit-harington/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/kit-harington/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/kit-harington/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/kit-harington/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/kit-harington/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/kit-harington/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/kit-harington/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/logo/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/logo/cfe-coffee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/logo/cfe-coffee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/logo/cfe-coffee.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/nikolaj-coster-waldau/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/nikolaj-coster-waldau/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/nikolaj-coster-waldau/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/nikolaj-coster-waldau/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/nikolaj-coster-waldau/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/nikolaj-coster-waldau/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/nikolaj-coster-waldau/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/peter-dinklage/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/peter-dinklage/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/peter-dinklage/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/peter-dinklage/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/peter-dinklage/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/peter-dinklage/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. face recognition/images/peter-dinklage/Thumbs.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3. face recognition/face recognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. face recognition/face recognition.py" afterDir="false" />
     </list>
